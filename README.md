@@ -1,1 +1,8 @@
-# gamingg
+srs
+need
+purpose
+scope
+
+
+
+etc
