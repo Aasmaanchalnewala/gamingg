@@ -1,8 +1,1 @@
-srs
-need
-purpose
-scope
-
-
-
-etc
+welcome to jira project to play a online game
